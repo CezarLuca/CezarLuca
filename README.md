@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CezarLuca
 - 👀 I’m interested in machine learning solutions for industrial applications.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning Typescript.
 - 💞️ I’m looking to collaborate on projecs that will help me improve my coding skills and meet new savy people.
 - 📫 Email me at cezar.luca@hotmail.com 
 
